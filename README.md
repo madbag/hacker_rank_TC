@@ -1,1 +1,1 @@
-## Technical Challenges Practice of HackerRank 
+## Technical Challenges - HackerRank Practice 
